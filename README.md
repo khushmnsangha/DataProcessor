@@ -24,20 +24,23 @@ Make sure you have the following installed:
 - npm or yarn
 - Git
 
-1. Clone the Repository /
-git clone https://github.com/khushmnsangha/DataProcessor.git /
-cd DataProcessor /
+1. Clone the Repository 
+- git clone https://github.com/khushmnsangha/DataProcessor.git
 
-2. Setup Backend /
-cd backend /
-npm install /
-npm start /
+2. Setup Backend 
+- cd backend 
+- npm install 
+- npm start 
 
 The backend should be running on http://localhost:5000.
 
-3. Setup Frontend /
-cd frontend /
-npm install /
-npm start /
+3. Setup Frontend 
+- cd frontend 
+- npm install 
+- npm start 
 
 The frontend should be running on http://localhost:3000.
+
+## License
+
+This project is licensed under the MIT License.
